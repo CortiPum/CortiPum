@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CortiPum
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Engineer
 - 📫 How to reach me cortizastomas@gmail.com
 
 <!---
